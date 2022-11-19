@@ -18,4 +18,4 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohsinfarabi&show_icons=true&locale=en&theme=transparent" alt="mohsinfarabi" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohsinfarabi&theme=transparent" alt="mohsinfarabi" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohsinfarabi&show_icons=true&locale=en&theme=transparent" alt="mohsinfarabi" /></p>
