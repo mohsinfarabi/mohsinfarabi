@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohsin Farabi</h1>
 <h3 align="center">Full-stack SQA and Test Automation Engineer</h3>
 
-<h4 align="left">5+ years of experience testing ERP, B2B-B2C, CRM, FinTech solutions. Always looking out for expanding the knowledge in different domains. Passionate about delivering product with highest level of quality</h4>
+<h4 align="left">6+ years of experience testing ERP, B2B-B2C, CRM, FinTech solutions. Always looking out for expanding the knowledge in different domains. Passionate about delivering product with highest level of quality</h4>
 
 - 💬 Ask me about **Testing, Test Automation,**
 
